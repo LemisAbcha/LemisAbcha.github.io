@@ -1,0 +1,33 @@
+h1{
+    color: burlywood;
+    background-color: pink
+}
+
+h2{
+    color: darkcyan;
+    background-color: pink;
+}
+h3{
+    color: darkcyan;
+    background-color: pink
+    
+}
+
+
+p{
+    color: darkred;
+    font-style: italic;
+    
+}
+body{
+    text-align: center;
+}
+body{
+    border-style: solid;
+    border-radius: 10px 20px 5px 7px;
+}
+
+h4{
+    color: darkcyan;
+    background-color: pink;
+}
